@@ -23,14 +23,14 @@ export default function About() {
             
             {/* Bio */}
             <div className="flex-grow">
-              <h2 className="text-3xl font-bold mb-4 text-pink-400">Hello! I'm Asma Drummond</h2>
+              <h2 className="text-3xl font-bold mb-4 text-pink-400">Hello! I&apos;m Asma Drummond</h2>
               <p className="text-lg text-purple-300 leading-relaxed mb-4">
-                I'm an aspiring UX designer with a passion for creating beautiful, user-centered digital experiences. 
+                I&apos;m an aspiring UX designer with a passion for creating beautiful, user-centered digital experiences. 
                 I love combining my creative side with technical skills to build interfaces that are both visually 
                 appealing and intuitive to use.
               </p>
               <p className="text-lg text-purple-300 leading-relaxed mb-4">
-                When I'm not designing, I'm exploring digital art and coding. Digital art allows me to express 
+                When I&apos;m not designing, I&apos;m exploring digital art and coding. Digital art allows me to express 
                 my creativity and experiment with visual aesthetics, while coding gives me the power to bring 
                 my designs to life. I believe the best user experiences come from the perfect blend of art and 
                 technology.
@@ -76,7 +76,7 @@ export default function About() {
 
         {/* Goals/Interests Section */}
         <div className="bg-gradient-to-r from-pink-50 to-purple-50 rounded-lg shadow-sm border border-pink-100 p-8 md:p-12">
-          <h2 className="text-3xl font-bold mb-6 text-pink-400">What I'm Learning</h2>
+          <h2 className="text-3xl font-bold mb-6 text-pink-400">What I&apos;m Learning</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-white rounded-lg p-6 shadow-sm border border-pink-100">
               <h3 className="text-xl font-bold mb-3 text-purple-400">Current Focus</h3>
